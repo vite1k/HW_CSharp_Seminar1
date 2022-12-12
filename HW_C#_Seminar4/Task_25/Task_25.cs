@@ -14,6 +14,8 @@ int Exponention(int a, int b)
     return n;
 }
 
+Console.Clear();
+
 Console.Write("Введите число, которое требуется возвести в степень: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите степень: ");

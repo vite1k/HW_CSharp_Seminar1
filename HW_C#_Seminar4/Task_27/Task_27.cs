@@ -19,6 +19,8 @@ int SumNumber(int num)
     return sum;
 }
 
+Console.Clear();
+
 Console.Write("Введите число, сумму цифр которого нужно посчитать: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
