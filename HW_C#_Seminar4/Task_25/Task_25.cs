@@ -4,7 +4,6 @@
 2, 4 -> 16
 */
 
-/*
 int Exponention(int a, int b)
 {
     int n = a;
@@ -22,4 +21,3 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 
 int result = Exponention(num1, num2);
 Console.WriteLine($"Число {num1} в степени {num2} будет {result}");
-*/
