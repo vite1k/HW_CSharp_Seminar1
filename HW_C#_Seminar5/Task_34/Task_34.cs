@@ -3,13 +3,13 @@
 [345, 897, 568, 234] -> 2
 */
 
-int[] CreateRandomArray(int size, int minValue, int maxValue)
+int[] CreateRandomArray(int size)
 {
     int[] array = new int[size];
 
     for(int i = 0; i < size; i++)
     {
-        array[i] = new Random().Next(minValue, maxValue + 1);
+        array[i] = new Random().Next(100, 1000);
     }   
     return array;
 }
@@ -44,13 +44,10 @@ Console.Clear();
 
 Console.Write("Введите количество элементов: ");
 int lenght = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите минимальное возможное значение: ");
-int min = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите максимальное возможное значение: ");
-int max = Convert.ToInt32(Console.ReadLine());
 
-int[] myArray = CreateRandomArray(lenght, min, max);
+int[] myArray = CreateRandomArray(lenght);
 WriteArray(myArray);
+
 int result = GetCountOfEvenNumbers(myArray);
 
 Console.WriteLine($" -> {result}");
