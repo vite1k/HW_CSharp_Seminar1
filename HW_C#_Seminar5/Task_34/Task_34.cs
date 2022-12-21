@@ -24,7 +24,6 @@ void WriteArray(int[] array)
     }    
 
     Console.Write("]");
-    Console.WriteLine();
 }
 
 int GetCountOfEvenNumbers(int[] array)
@@ -54,4 +53,4 @@ int[] myArray = CreateRandomArray(lenght, min, max);
 WriteArray(myArray);
 int result = GetCountOfEvenNumbers(myArray);
 
-Console.WriteLine($"В данном массиве {result} четных чисел");
+Console.WriteLine($" -> {result}");
