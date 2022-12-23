@@ -52,7 +52,11 @@ int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите номер индекса столбца");
 int b = Convert.ToInt32(Console.ReadLine());
 
-if (a >= rows && b >= columns && a < rows && b >= columns && a >= rows && b < columns)
+if (a >= rows && b >= columns)
+    Console.WriteLine("Такого числа в массиве нет");
+else if (a < rows && b >= columns)
+    Console.WriteLine("Такого числа в массиве нет");
+else if (a >= rows && b < columns)
     Console.WriteLine("Такого числа в массиве нет");
 else
-    ShowIndex(myArray, a, b);
+ShowIndex(myArray, a, b);
