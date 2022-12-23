@@ -1,0 +1,15 @@
+D:\MyGit\HW_C#_Seminar4\Task_27\bin\Debug\net6.0\Task_27.exe
+D:\MyGit\HW_C#_Seminar4\Task_27\bin\Debug\net6.0\Task_27.deps.json
+D:\MyGit\HW_C#_Seminar4\Task_27\bin\Debug\net6.0\Task_27.runtimeconfig.json
+D:\MyGit\HW_C#_Seminar4\Task_27\bin\Debug\net6.0\Task_27.dll
+D:\MyGit\HW_C#_Seminar4\Task_27\bin\Debug\net6.0\Task_27.pdb
+D:\MyGit\HW_C#_Seminar4\Task_27\obj\Debug\net6.0\Task_27.csproj.AssemblyReference.cache
+D:\MyGit\HW_C#_Seminar4\Task_27\obj\Debug\net6.0\Task_27.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit\HW_C#_Seminar4\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfoInputs.cache
+D:\MyGit\HW_C#_Seminar4\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfo.cs
+D:\MyGit\HW_C#_Seminar4\Task_27\obj\Debug\net6.0\Task_27.csproj.CoreCompileInputs.cache
+D:\MyGit\HW_C#_Seminar4\Task_27\obj\Debug\net6.0\Task_27.dll
+D:\MyGit\HW_C#_Seminar4\Task_27\obj\Debug\net6.0\refint\Task_27.dll
+D:\MyGit\HW_C#_Seminar4\Task_27\obj\Debug\net6.0\Task_27.pdb
+D:\MyGit\HW_C#_Seminar4\Task_27\obj\Debug\net6.0\Task_27.genruntimeconfig.cache
+D:\MyGit\HW_C#_Seminar4\Task_27\obj\Debug\net6.0\ref\Task_27.dll
